@@ -1,5 +1,5 @@
 - Note
-	- tags::
-	  date:: <%today%>
-	  template:: Note
+  - tags::
+    date:: <%today%>
+    template:: Note
 -
